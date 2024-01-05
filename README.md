@@ -1,9 +1,8 @@
 #Suélen Camargo (Sow)  👋
 
-Sou desenvolvedora Front-End com Mindset de User Experience.  👩🏻‍💻
+Sou desenvolvedora com Mindset de User Experience.  👩🏻‍💻
 Amo tecnologia e Cultura Digital. 🙋🏻
 
-⌨️ &nbsp; Trabalho como **PJ / Freelancer**
  <br/> 💜 &nbsp; Aprendendo Flutter e React
  <br/> 👋 &nbsp; Posso te ajudar com Javascript, CSS Grid Layout e Flexbox
  <br/> 🖥️ &nbsp; Minha stack: CSS e Javascript
