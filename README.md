@@ -24,8 +24,9 @@ Apaixonada por criar soluções acessíveis, intuitivas e centradas no usuário.
 ## 💜 Interesses
 
 - Desenvolvimento iOS
-- UX & Acessibilidade
-- Coreano 🇰🇷 | BTS 💜 | Jogos 🎮
+- Coreano 🇰🇷
+- BTS 💜
+- Jogos 🎮
 
 ---
 
@@ -33,6 +34,3 @@ Apaixonada por criar soluções acessíveis, intuitivas e centradas no usuário.
 
 [LinkedIn](https://www.linkedin.com/in/camargo-suelen)  
 📧 sowelus.oficial@gmail.com
-
----
-> “Aprender é o que me move. Criar experiências melhores é o que me guia.”
