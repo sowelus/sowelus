@@ -54,7 +54,7 @@ Apaixonada por criar soluções acessíveis, intuitivas e centradas no usuário.
 
 
 ## 🤝 Vamos conversar?
-
+Neste repositório, tenho alguns projetos que estão privados, então se deseja ter visibilidade sobre eles, podemos marcar um café. 
 Se quiser trocar ideias:  
 [📩 Me chama no LinkedIn](https://www.linkedin.com/in/camargo-suelen)  
 📧 sowelus.oficial@gmail.com
