@@ -54,7 +54,7 @@ Passionate about creating accessible, intuitive, and user-centered solutions.
 
 ## 🤝 Let’s Connect!
 
-If you want to exchange ideas:
 [📩 Message me on LinkedIn](https://www.linkedin.com/in/camargo-suelen)
-📧 [sowelus.oficial@gmail.com](mailto:sowelus.oficial@gmail.com)
+
+📧[sowelus.oficial@gmail.com](mailto:sowelus.oficial@gmail.com)
 
