@@ -9,7 +9,7 @@ Apaixonada por criar soluções acessíveis, intuitivas e centradas no usuário.
 
 - +6 anos com **UI Design** e +3 anos como **Front-End Dev**
 - Atuação em **projetos de alto impacto e escala**
-- Perfil autodidata, colaborativo e orientado a produto
+- Perfil autodidata e colaborativo
 
 
 
