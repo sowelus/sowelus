@@ -1,11 +1,5 @@
 # 👩🏻‍💻 Hi, I’m Suélen (Sow) 👋
 
-iOS developer in transition, with a background in Front-End and UI Design.
-Passionate about creating accessible, intuitive, and user-centered solutions.
-
-
-
-## 📝 About Me
 
 * 6+ years in **UI Design** and 3+ years as a **Front-End Developer**
 * Experience in **high-impact, large-scale projects**
