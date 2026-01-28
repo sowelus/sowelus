@@ -39,10 +39,11 @@
 
 
 
-**My Hobby**
+**My current Hobby**
 
-- iOS Development
-- BTS 💜
+- iOS (Learning)
+- BTS 💜💜💜💜💜
+- Traveling 
 - Games 🎮
 
 
