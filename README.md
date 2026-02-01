@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Hi, I’m Suélen (Sow) 👋
 
 
-* 6+ years in **UI Design** and 3+ years as a **Front-End Developer**
+* 6 years in **UI Design** and 3+ years as a **Front-End Developer**
 * Experience in **high-impact, large-scale projects**
 * Self-taught and collaborative profile
 
