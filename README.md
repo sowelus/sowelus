@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hi, I’m Suélen (Sow) 👋
+# 👩🏻‍💻 Hi, I’m Suélen👋
 
 - Front-End Developer working on web platforms for Brazilian companies  
 - Background in UI Design  
